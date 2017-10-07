@@ -9,3 +9,6 @@ c:\users\bukhtiyarov.evgeniy\documents\visual studio 2017\Projects\WindowsFormsA
 c:\users\bukhtiyarov.evgeniy\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 c:\users\bukhtiyarov.evgeniy\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 c:\users\bukhtiyarov.evgeniy\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\111\Documents\Visual Studio 2015\Projects\4.1\GitHub\New\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\111\Documents\Visual Studio 2015\Projects\4.1\GitHub\New\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\111\Documents\Visual Studio 2015\Projects\4.1\GitHub\New\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
